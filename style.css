@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+    /* background-image: linear-gradient(to right, rgb(49 165 215), rgb(84 248 184)); */
+    background-color: rgb(133, 221, 255);
+    font-family: 'Poor Story', system-ui;
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    border: 8px solid rgb(255, 255, 255);
+    border-radius: 20%;
+    margin: 2rem;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+
+}
+
+h1 {
+    background-color: white;
+    width: 333px;
+    line-height: 60px;
+    border-radius: 40px;
+    margin: auto;
+
+
+}
+
+.yellow {
+    background-color: rgb(255, 255, 129);
+}
+
+.red {
+    background-color: rgb(255, 83, 83);
+}
+
+.green {
+    background-color: rgb(103, 255, 123);
+}
+
+.purple {
+    background-color: rgb(255, 75, 252);
+}
+
+.flash {
+    background-color: white;
+}
+
+.userflash {
+    background-color: rgb(148, 248, 255);
+}
